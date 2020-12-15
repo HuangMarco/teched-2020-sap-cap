@@ -88,4 +88,4 @@ CAP应用首先会被编译，编译完成之后，SBAS会弹出对话框提示�
 
 通过访问实体对象数据，我们发现当前应用中实体对象的数据为空。
 
-至此，我们已在CAP应用中创建CDS Service并在其中定义实体对象，通过暴露CAP应用，可以通过RESTFUL方式访问该实体对象的元数据信息。同时我们可以通过REST API的方式来访问CAP所暴露的服务。接下来您可以前往章节[05-添加自定义业务逻辑](https://github.tools.sap/sap-samples-scpcn/teched-2020-12-15/blob/master/exercises/05/README.md)来对当前应用做进一步的增强。
+至此，我们已在CAP应用中创建CDS Service并在其中定义实体对象，通过暴露CAP应用，可以通过RESTFUL方式访问该实体对象的元数据信息。同时我们可以通过REST API的方式来访问CAP所暴露的服务。接下来您可以前往章节[05-添加自定义业务逻辑](https://github.com/HuangMarco/teched-2020-sap-cap/blob/master/exercises/05/README.md)来对当前应用做进一步的增强。

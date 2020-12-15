@@ -102,4 +102,4 @@ SAP云平台提供数据中心多样化的选择，您可以根据您的需要�
 
 :point_right: 请留意`Create Dev Space`按钮，我们在接下来的章节中将会点击该按钮创建新的工作区间。
 
-至此，您已完成SBAS的权限配置等相关准备工作，您可点击[02-配置SBAS开发环境](https://github.tools.sap/sap-samples-scpcn/teched-2020-12-15/blob/master/exercises/02/README.md)进入下一章节练习。
+至此，您已完成SBAS的权限配置等相关准备工作，您可点击[02-配置SBAS开发环境](https://github.com/HuangMarco/teched-2020-sap-cap/blob/master/exercises/02/README.md)进入下一章节练习。

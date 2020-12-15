@@ -153,5 +153,5 @@ curl -X POST http://localhost:8080/odata/v4/OrdersService/Orders \
 
 ![access app 3](access-app-3.png)
 
-至此，我们已成功的配置并使用了SAP云平台中的HANA数据库服务。接下来我们即将完成最后一个练习[09-部署应用到SAP云平台](https://github.tools.sap/sap-samples-scpcn/teched-2020-12-15/blob/master/exercises/09/README.md)。
+至此，我们已成功的配置并使用了SAP云平台中的HANA数据库服务。接下来我们即将完成最后一个练习[09-部署应用到SAP云平台](https://github.com/HuangMarco/teched-2020-sap-cap/blob/master/exercises/09/README.md)。
 

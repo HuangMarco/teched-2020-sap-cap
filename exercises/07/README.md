@@ -225,4 +225,4 @@ cds deploy --to sqlite:db/product.db #在db目录下生成my.db
 
 ![book service](bookservice.png)
 
-至此，我们通过部署测试数据文件的方式，可以将我们的测试数据部署到数据库中。SAP CAP提供灵活的测试数据加载方式。接下来我们将通过[08-配置应用使用SAP HANA数据库](https://github.tools.sap/sap-samples-scpcn/teched-2020-12-15/blob/master/exercises/08/README.md)消费位于SAP云平台中的HANA数据库服务。
+至此，我们通过部署测试数据文件的方式，可以将我们的测试数据部署到数据库中。SAP CAP提供灵活的测试数据加载方式。接下来我们将通过[08-配置应用使用SAP HANA数据库](https://github.com/HuangMarco/teched-2020-sap-cap/blob/master/exercises/08/README.md)消费位于SAP云平台中的HANA数据库服务。

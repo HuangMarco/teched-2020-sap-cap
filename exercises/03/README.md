@@ -115,4 +115,4 @@ mvn -B -X -DarchetypeCatalog=internal archetype:generate -DarchetypeArtifactId=c
 
 您可以点击查看项目中的其他文件，了解项目结构。
 
-至此我们已完成创建一个CAP基础应用，接下来您将进入[04-定义CAP Service](https://github.tools.sap/sap-samples-scpcn/teched-2020-12-15/blob/master/exercises/04/README.md)
+至此我们已完成创建一个CAP基础应用，接下来您将进入[04-定义CAP Service](https://github.com/HuangMarco/teched-2020-sap-cap/blob/master/exercises/04/README.md)

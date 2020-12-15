@@ -259,6 +259,6 @@ curl -X POST http://localhost:8080/odata/v4/AdminService/Categories \
 
 由上图可见，即使我们重启应用，我们之前插入的数据依然存在sqlite数据库中。
 
-至此，您已完成本章节内容，接下来请进入下一章节[07-创建测试数据以及Sqlite工具的使用](https://github.tools.sap/sap-samples-scpcn/teched-2020-12-15/blob/master/exercises/07/README.md)
+至此，您已完成本章节内容，接下来请进入下一章节[07-创建测试数据以及Sqlite工具的使用](https://github.com/HuangMarco/teched-2020-sap-cap/blob/master/exercises/07/README.md)
 
 

@@ -58,4 +58,4 @@ cds # 测试cds命令行工具是否安装成功
 
 ![cds helper](cds.png)
 
-至此，我们已完成SBAS中CAP工作环境的配置。现在您可以进入[03-创建CAP基础应用](https://github.tools.sap/sap-samples-scpcn/teched-2020-12-15/blob/master/exercises/03/README.md)章节开始创建SAP CAP应用。
+至此，我们已完成SBAS中CAP工作环境的配置。现在您可以进入[03-创建CAP基础应用](https://github.com/HuangMarco/teched-2020-sap-cap/blob/master/exercises/03/README.md)章节开始创建SAP CAP应用。

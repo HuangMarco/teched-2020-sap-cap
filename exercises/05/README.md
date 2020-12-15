@@ -105,4 +105,4 @@ curl -X POST http://localhost:8080/odata/v4/AdminService/Products \
 
 :point_right: 可多次尝试刷新浏览器，查看刷新之后数据是否依然存在。您也可以尝试通过Postman或IDEA HTTP Client等工具来访问SBAS中运行的CAP应用。
 
-至此，我们已完成创建自定义的Event Handler，通过自定义的Event Handler我们实现了将Products实体数据写入至内存，以及从内存中读取Products数据的功能。但是将CDS实体与CDS Service放置在一起，依然不是一个最佳选择，同时也不符合通常的项目规范。接下来，您将进入到下一章节[06-新建持久层以及重用CDS通用特性](https://github.tools.sap/sap-samples-scpcn/teched-2020-12-15/blob/master/exercises/06/README.md)。
+至此，我们已完成创建自定义的Event Handler，通过自定义的Event Handler我们实现了将Products实体数据写入至内存，以及从内存中读取Products数据的功能。但是将CDS实体与CDS Service放置在一起，依然不是一个最佳选择，同时也不符合通常的项目规范。接下来，您将进入到下一章节[06-新建持久层以及重用CDS通用特性](https://github.com/HuangMarco/teched-2020-sap-cap/blob/master/exercises/06/README.md)。
